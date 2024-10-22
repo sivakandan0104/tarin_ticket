@@ -1,4 +1,4 @@
-import linked
+import linked_train
 p = True
 ide = "TN31A" 
 ticket_avl = 50
